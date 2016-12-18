@@ -1,0 +1,15 @@
+{
+"name": "trezzor",
+"displayname": "TreZzor Tracker",
+"description": "TreZzor Tracker Synology NAS plugin",
+"version": "1.0",
+"majorversion": "4",
+"minorversion": "0",
+"minfirmware": "2257",
+"accountsupport": true,
+"site": "http://tracker.czech-server.com",
+"hostprefix": "tracker.czech-server.com",
+"module": "search.php",
+"type": "search",
+"class": "SearchTrezzorTracker"
+}
